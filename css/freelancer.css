@@ -1,1 +1,82 @@
-/* Inserta tu código aqui */
+body
+{
+	font-family: 'Montserrat', sans-serif;
+}
+h1, ,h2, h3, h4, h5, h6
+{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header
+{
+	background: #404040;
+	
+}
+.header h3
+{
+	color: white;
+	font-weight: 700;
+	padding: 30px 0px 30px 210px;
+}
+.pull-left, .pull-right
+{
+	margin: 0px;
+	padding: 0px;
+}
+.main-menu
+{
+	margin-top: 32px;
+	margin-right: 210px;
+}
+.main-menu li
+{
+	display: inline;
+	
+	
+}
+.main-menu li a
+{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color: white;
+	padding: 15px 12px ;
+	font-size: 12px;
+	text-decoration: none;
+}
+.main-menu li a:hover
+{
+	background: black;
+	text-decoration: none;
+
+}
+.content-2
+{
+	padding: 100px 0px;
+	background: red;
+	text-align: center;
+	
+}
+.content-2 h1
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 55px;
+	font-weight: 700;
+	color: white;
+}
+.content-2 p
+{
+	font-size: 20px;
+	color: white;
+
+}
+.imagenes
+{padding: 1% 15%;
+
+}
+.imagenes img
+{
+	width: 100%;
+}
+
+.about-intro
+{padding: 1% 27%;}
